@@ -27,7 +27,7 @@
     "debug": "^4.1.1",
     "mosca": "^2.8.3",
     "redis": "^2.8.0",
-    "ws": "^7.1.2"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "longjohn": "^0.2.12",
