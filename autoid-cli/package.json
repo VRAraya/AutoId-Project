@@ -24,6 +24,6 @@
     "autoid-agent": "file:../autoid-agent",
     "blessed": "^0.1.81",
     "blessed-contrib": "^4.8.18",
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   }
 }
